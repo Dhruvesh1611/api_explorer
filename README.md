@@ -2,7 +2,8 @@
 
 A modern, full-screen React application that allows you to explore and visualize data from various public APIs. Built with React, Redux Toolkit, and Vite.
 
-![API Explorer Screenshot](https://via.placeholder.com/800x400/4a6cf7/ffffff?text=API+Explorer)
+![API Explorer Preview](https://raw.githubusercontent.com/Dhruvesh1611/api_explorer/main/src/assets/api_explorer.png)
+
 
 ## 🚀 Features
 
@@ -12,7 +13,7 @@ A modern, full-screen React application that allows you to explore and visualize
 - **Image Support**: Display images, avatars, and sprites from APIs
 - **Real-time Data**: Fetch fresh data with a single click
 - **Error Handling**: Graceful error handling with retry functionality
-- **Responsive Design**: Works perfectly on desktop, tablet, and mobile
+- **Responsive Design**: Works perfectly on desktop, tablet, and mobile.
 
 ## 📡 Available APIs
 
